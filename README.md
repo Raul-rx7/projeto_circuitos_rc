@@ -1,1 +1,1 @@
-# Projeto de simulação de circuitos RC em python para o ensino de física
+# Projeto para ensino do conteúdo de circuitos RC utilizando *python*
